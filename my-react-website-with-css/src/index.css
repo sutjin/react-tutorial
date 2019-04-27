@@ -1,0 +1,15 @@
+body {
+  background: url("./media/background.jpg");
+}
+
+h1 {
+  text-align: center;
+}
+
+#main_wrapper {
+  margin: 1em;
+}
+
+.btn-custom {
+  color: green
+}
