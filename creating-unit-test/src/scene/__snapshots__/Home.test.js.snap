@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> renders <Home /> container correctly 1`] = `
+<div
+  id="main_wrapper"
+>
+  <h1>
+    Hello World
+  </h1>
+  <p>
+    Current Count 
+    0
+  </p>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Click Me!
+  </button>
+</div>
+`;
+
+exports[`<Home /> renders Home with <p> for content 1`] = `
+<div
+  id="main_wrapper"
+>
+  <h1>
+    Hello World
+  </h1>
+  <p>
+    Nice to meet you
+  </p>
+  <p>
+    Current Count 
+    0
+  </p>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Click Me!
+  </button>
+</div>
+`;
